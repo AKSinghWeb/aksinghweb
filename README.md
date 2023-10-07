@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anuupam's GitHub stats](https://github-readme-stats-git-dependabot-87bfc7-aksinghwebs-projects.vercel.app/api?username=aksinghweb&show_icons=true&theme=transparent)
 <!--
 **AKSinghWeb/aksinghweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
