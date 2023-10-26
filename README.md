@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there! 👋 I'm Anupam Kumar Singh.
 
 I'm an enthusiastic Information Technology undergrad with a specialization in the MERN (MongoDB, Express.js, React.js, Node.js) stack. Currently exploring the fascinating world of web development, I have a particular interest in creating robust and scalable applications. Welcome to my GitHub profile!
